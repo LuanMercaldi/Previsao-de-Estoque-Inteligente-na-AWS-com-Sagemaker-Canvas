@@ -37,9 +37,31 @@ Bem-vindo ao projeto para prever a demanda de estoque usando AWS SageMaker Canva
 
 ### 4. Prever
 
-
+Infelizmente não consegui terminar essa parte, pois a O SageMaker é pago... E acabou minha versão paga, eventualmente eu termino.
 
 
 ### 5. Conclusões
 
 O projeto proporcionou uma boa base para a construção de um modelo de previsão de estoque usando o AWS SageMaker Canvas. Embora as métricas de desempenho indiquem que há espaço para melhorias, o processo forneceu uma visão valiosa sobre a configuração e uso de modelos de machine learning para otimização de inventário.
+
+## 👨‍💻 Expert
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://github.com/user-attachments/assets/445d5b33-1db7-4cb4-a54b-a11a691de257"
+    />
+    <p>&nbsp&nbsp&nbspLuan Mercaldi<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://www.dio.me/users/luanwp">
+    DIO</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/luan-mercaldi-88080890/">LinkedIn</a>
+</p>
+<br/><br/>
+<p>
+
+---
+
+⌨️ com 💜 por [Luan Mercaldi](https://github.com/LuanMercaldi)
